@@ -1,4 +1,4 @@
-module github.com/eabramov1993/Protos/v2
+module github.com/eabramov1993/protos
 
 go 1.23.0
 
